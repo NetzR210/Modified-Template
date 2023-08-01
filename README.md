@@ -6,6 +6,6 @@ I am a UTSA student currently majoring in *Cyber Security*.
 </div>
 <p> </p>
 <div id="badges">
-  <a href="[https://tryhackme.com/p/NetzR]">
+  <a href="https://tryhackme.com/p/NetzR">
     <img src="https://tryhackme-badges.s3.amazonaws.com/NetzR.png" alt="TryHackMe">
 </div>
