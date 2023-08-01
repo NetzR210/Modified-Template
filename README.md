@@ -7,5 +7,5 @@ I am a UTSA student currently majoring in *Cyber Security*.
 <p> </p>
 <div id="badges">
   <a href="[https://tryhackme.com/p/NetzR]">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/NetzR.png" alt="TryHackMe">
 </div>
